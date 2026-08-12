@@ -9,7 +9,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Abhay8958541230">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Pratap+Rathore;Computer+Science+Student+%40+VIT+Bhopal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+AI+Applications;Open+Source+Contributor;Quantitative+Finance+%26+Trading+Enthusiast;Building+Archon+%26+ChequeShield+AI;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+FastAPI+%7C+Docker;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Pratap+Rathore;Computer+Science+Student+%40+Vellore+Institute+of+Technology;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+AI+Applications;Open+Source+Contributor;Quantitative+Finance+%26+Trading+Enthusiast;Building+Archon+%26+ChequeShield+AI;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+FastAPI+%7C+Docker;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
