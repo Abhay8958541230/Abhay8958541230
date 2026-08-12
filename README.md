@@ -225,16 +225,29 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 <h2 align="center">📈 GitHub Stats</h2>
 
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay8958541230&theme=radical&hide_border=true&background=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay8958541230&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay8958541230&theme=redical&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay8958541230&theme=radical&hide_border=true" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay8958541230&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay8958541230&theme=radical&hide_border=true" />
+
+</div>
 
 
 ---
