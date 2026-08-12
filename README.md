@@ -62,13 +62,13 @@
 - 🏗️ System Design • Distributed Systems
 - 📈 Quantitative Finance • Financial Modeling
 
-💻 **Tech Interests**
+💻 **Tech Interests:**
 Artificial Intelligence • Full-Stack Development • Backend Engineering • Open Source • Cloud Computing • Developer Experience
 
-🏆 **Beyond Coding**
+🏆 **Beyond Coding:**
 Open Source Contributor • Financial Markets Enthusiast • Continuous Learner • Building Projects That Create Real Impact
 
-⚡ **Fun Fact:** I enjoy reading financial statements as much as debugging code—and both are puzzles worth solving. ☕
+⚡ **Fun Fact:** I enjoy reading financial statements as much as debugging code and both are puzzles worth solving. ☕
 
 ### 
 
