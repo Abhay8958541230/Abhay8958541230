@@ -47,7 +47,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **VIT Bhopal**, passionate about building intelligent software that solves real-world problems.
+🚀 **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **Vellore Institute of Technology**, passionate about building intelligent software that solves real-world problems.
 
 💡 I enjoy combining **AI**, **software engineering**, and **finance** to create scalable products, automate complex workflows, and deliver data-driven solutions.
 
