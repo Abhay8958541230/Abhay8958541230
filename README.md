@@ -174,11 +174,6 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 </div>
 
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhay8958541230&theme=radical&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
