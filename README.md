@@ -149,7 +149,8 @@ Open Source Contributor • Financial Markets Enthusiast • Continuous Learner 
 <img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Quantitative_Finance-16A34A?style=for-the-badge"/>
 </p>
----
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <picture>
