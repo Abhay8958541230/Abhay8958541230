@@ -224,7 +224,7 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 
 ### 📈 GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
