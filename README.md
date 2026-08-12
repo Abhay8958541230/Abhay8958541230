@@ -45,67 +45,110 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) @ Vellore Institute of Technology
-- 🔭 Interested in **AI Agents**, **Quantitative Finance**, and **System Design**
-- 🚀 Currently building:
-  - 🧠 **Archon** — AI Repository Intelligence Platform
-  - ⚖️ **ChequeShield AI** — LegalTech + NLP
-  - 📊 **Financial Statement Analyzer** — AI-powered financial analysis
-- 📚 Currently learning: AWS, System Design, LLMs, Quantitative Finance, MLOps
-- ⚡ Fun fact: Coffee ☕ + Music 🎧 = Code
+🚀 **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **VIT Bhopal**, passionate about building intelligent software that solves real-world problems.
 
----
+💡 I enjoy combining **AI**, **software engineering**, and **finance** to create scalable products, automate complex workflows, and deliver data-driven solutions.
+
+🛠️ **Currently Building**
+- ⚖️ **ChequeShield AI** — AI-powered LegalTech platform using **OCR, NLP, RAG & LLMs** for cheque bounce case analysis.
+- 📊 **Financial Statement Analyzer** — AI-powered platform for automated financial statement analysis and company insights.
+- 🤖 **AI Developer Tools** — Building LLM-powered applications, automation workflows, and productivity tools.
+
+🌱 **Currently Learning**
+- 🧠 AI Agents • LLM Engineering • RAG
+- ☁️ AWS • Docker • Kubernetes • MLOps
+- 🏗️ System Design • Distributed Systems
+- 📈 Quantitative Finance • Financial Modeling
+
+💻 **Tech Interests**
+Artificial Intelligence • Full-Stack Development • Backend Engineering • Open Source • Cloud Computing • Developer Experience
+
+🏆 **Beyond Coding**
+Open Source Contributor • Financial Markets Enthusiast • Continuous Learner • Building Projects That Create Real Impact
+
+⚡ **Fun Fact:** I enjoy reading financial statements as much as debugging code—and both are puzzles worth solving. ☕
 
 ### 🚀 Tech Stack
 
-**Languages**
+# 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-**AI / ML**
+### 🤖 AI / Machine Learning
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 </p>
 
-**Backend**
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-**Database**
+### 🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-**Cloud & DevOps**
+### ☁️ Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
+### 🛠️ Tools & IDEs
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
+### 📚 Currently Learning
+<p>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-EA580C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quantitative_Finance-16A34A?style=for-the-badge"/>
+</p>
 ---
 
 <p align="center">
