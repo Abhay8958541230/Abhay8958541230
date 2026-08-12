@@ -9,16 +9,35 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Abhay8958541230">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Quantitative+Finance+Enthusiast;Full+Stack+Developer;Building+Archon+%7C+ChequeShield+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Pratap+Rathore;Computer+Science+Student+%40+VIT+Bhopal;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+AI+Applications;Open+Source+Contributor;Quantitative+Finance+%26+Trading+Enthusiast;Building+Archon+%26+ChequeShield+AI;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+FastAPI+%7C+Docker;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-pratap-rathore/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="mailto:rathoreabhaypratap2612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://magenta-mermaid-6161a9.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Pgv3Rf0amFupJQyDhkyCjt833c3T1pWr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/abhay_pratap_rathore/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/beyond.abhay/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=Abhay8958541230&label=Profile%20Views&color=8A2BE2&style=flat" alt="visitor count" />
 
