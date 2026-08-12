@@ -141,12 +141,29 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 ---
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
 ### 📈 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay8958541230&theme=radical&hide_border=true&background=0D1117" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
@@ -154,17 +171,6 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-> Generated nightly by the GitHub Action in `.github/workflows/snake.yml` (included in this repo). See setup step 3 below.
-
----
 
 ### 🏆 Trophies
 
