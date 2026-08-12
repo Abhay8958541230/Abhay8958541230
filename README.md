@@ -38,10 +38,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=Abhay8958541230&label=Profile%20Views&color=8A2BE2&style=flat" alt="visitor count" />
 
-</div>
 
 ---
 
