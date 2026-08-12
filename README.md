@@ -42,6 +42,8 @@
 
 ---
 
+</div>
+
 ## 👨‍💻 About Me
 
 🚀 **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **Vellore Institute of Technology**, passionate about building intelligent software that solves real-world problems.
@@ -67,7 +69,7 @@ Open Source Contributor • Financial Markets Enthusiast • Continuous Learner 
 
 ⚡ **Fun Fact:** I enjoy reading financial statements as much as debugging code and both are puzzles worth solving. ☕
 
-### 
+
 
 # 🛠️ Tech Stack
 
