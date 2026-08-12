@@ -70,7 +70,7 @@ Open Source Contributor • Financial Markets Enthusiast • Continuous Learner 
 
 ⚡ **Fun Fact:** I enjoy reading financial statements as much as debugging code—and both are puzzles worth solving. ☕
 
-### 🚀 Tech Stack
+### 
 
 # 🛠️ Tech Stack
 
@@ -170,74 +170,60 @@ Open Source Contributor • Financial Markets Enthusiast • Continuous Learner 
 </p>
 
 
-### 💻 Featured Projects
+<h2 align="center">💻 Featured Projects</h2> 
 
 <table>
 <tr>
 <td width="50%">
 
-**🧠 [Archon](https://github.com/Abhay8958541230/archon)**
-AI repository intelligence platform that understands and reasons over codebases.
-
-</td>
-<td width="50%">
-
-**⚖️ [ChequeShield AI](https://github.com/Abhay8958541230/chequeshield-ai)**
+**⚖️ [ChequeShield AI](https://github.com/Abhay8958541230/chequeshield-ai)**  
 LegalTech + NLP system for cheque/document fraud detection.
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
-**📊 [Financial Statement Analyzer](https://github.com/Abhay8958541230/financial-statement-analyzer)**
-AI-driven analysis of financial statements for investment research.
-
-</td>
-<td width="50%">
-
-**🤖 [AI Resume Analyzer](https://github.com/Abhay8958541230/ai-resume-analyzer)**
+**🤖 [AI Resume Analyzer](https://github.com/Abhay8958541230/ai-resume-analyzer)**  
 NLP-based resume screening and feedback tool.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-**📉 [Quant Trading Dashboard](https://github.com/Abhay8958541230/quant-trading-dashboard)**
+**📊 [Financial Statement Analyzer](https://github.com/Abhay8958541230/financial-statement-analyzer)**  
+AI-driven analysis of financial statements for investment research.
+
+</td>
+
+<td width="50%">
+
+**📉 [Quant Trading Dashboard](https://github.com/Abhay8958541230/quant-trading-dashboard)**  
 Dashboard for tracking and analyzing quantitative trading strategies.
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
----
 
-### 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 
-- 🥇 AIR 1805 — IISER Aptitude Test
-- 💰 Managing ₹15L+ investment portfolio
-- 🎓 Multiple research internships
-- 🤖 15+ AI projects shipped
-- ⭐ Open source enthusiast
+
+- 🥇 Secured **AIR 1805** in the IISER Aptitude Test
+- 💰 Managing a **₹15L+** self-directed investment portfolio
+- 🤖 Built **15+ AI, ML & Full-Stack projects**
+- 🔬 Gained hands-on experience through **multiple AI research internships**
+- 🌍 Passionate about **Open Source, AI, and Quantitative Finance**
 
 
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay8958541230&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay8958541230&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img height="170em" src="https://streak-stats.demolab.com?user=Abhay8958541230&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -245,15 +231,19 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay8958541230&theme=radical&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhay8958541230&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
-
----
+<br>
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay8958541230&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
 Thanks for stopping by! Feel free to explore my pinned repos and reach out via the links above.
 
 </div>
