@@ -87,6 +87,26 @@
 
 ---
 
+---
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+
 ### 💻 Featured Projects
 
 <table>
@@ -139,24 +159,6 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 - 🤖 15+ AI projects shipped
 - ⭐ Open source enthusiast
 
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Abhay8958541230/Abhay8958541230/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
 
 ### 📈 GitHub Stats
 
