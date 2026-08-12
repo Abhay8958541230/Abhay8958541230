@@ -1,14 +1,14 @@
 <!--
   HOW TO USE THIS FILE
-  1. Find-and-replace every YOUR_USERNAME with your exact GitHub username.
+  1. Find-and-replace every Abhay8958541230 with your exact GitHub username.
   2. Find-and-replace YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO with your real links.
-  3. Save this as README.md inside a public repo named exactly YOUR_USERNAME.
+  3. Save this as README.md inside a public repo named exactly Abhay8958541230.
 -->
 
 <div align="center">
 
 <!-- Typing animation -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Abhay8958541230">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Quantitative+Finance+Enthusiast;Full+Stack+Developer;Building+Archon+%7C+ChequeShield+AI" alt="Typing SVG" />
 </a>
 
@@ -20,7 +20,7 @@
 </p>
 
 <!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=flat" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=Abhay8958541230&label=Profile%20Views&color=8A2BE2&style=flat" alt="visitor count" />
 
 </div>
 
@@ -93,13 +93,13 @@
 <tr>
 <td width="50%">
 
-**🧠 [Archon](https://github.com/YOUR_USERNAME/archon)**
+**🧠 [Archon](https://github.com/Abhay8958541230/archon)**
 AI repository intelligence platform that understands and reasons over codebases.
 
 </td>
 <td width="50%">
 
-**⚖️ [ChequeShield AI](https://github.com/YOUR_USERNAME/chequeshield-ai)**
+**⚖️ [ChequeShield AI](https://github.com/Abhay8958541230/chequeshield-ai)**
 LegalTech + NLP system for cheque/document fraud detection.
 
 </td>
@@ -107,13 +107,13 @@ LegalTech + NLP system for cheque/document fraud detection.
 <tr>
 <td width="50%">
 
-**📊 [Financial Statement Analyzer](https://github.com/YOUR_USERNAME/financial-statement-analyzer)**
+**📊 [Financial Statement Analyzer](https://github.com/Abhay8958541230/financial-statement-analyzer)**
 AI-driven analysis of financial statements for investment research.
 
 </td>
 <td width="50%">
 
-**🤖 [AI Resume Analyzer](https://github.com/YOUR_USERNAME/ai-resume-analyzer)**
+**🤖 [AI Resume Analyzer](https://github.com/Abhay8958541230/ai-resume-analyzer)**
 NLP-based resume screening and feedback tool.
 
 </td>
@@ -121,7 +121,7 @@ NLP-based resume screening and feedback tool.
 <tr>
 <td width="50%">
 
-**📉 [Quant Trading Dashboard](https://github.com/YOUR_USERNAME/quant-trading-dashboard)**
+**📉 [Quant Trading Dashboard](https://github.com/Abhay8958541230/quant-trading-dashboard)**
 Dashboard for tracking and analyzing quantitative trading strategies.
 
 </td>
@@ -162,12 +162,12 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay8958541230&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay8958541230&theme=radical&hide_border=true&background=0D1117" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay8958541230&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay8958541230&theme=redical&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
@@ -175,7 +175,7 @@ Dashboard for tracking and analyzing quantitative trading strategies.
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abhay8958541230&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
