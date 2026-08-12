@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
+- 🎓 B.Tech CSE (AI & ML) @ Vellore Institute of Technology
 - 🔭 Interested in **AI Agents**, **Quantitative Finance**, and **System Design**
 - 🚀 Currently building:
   - 🧠 **Archon** — AI Repository Intelligence Platform
